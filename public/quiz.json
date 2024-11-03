@@ -1,0 +1,34 @@
+{
+  "title": "Questionnaire sur le foot",
+  "minimum_score": 5,
+  "sucess_message": "Félicitations ! Vous êtes un fin connaisseur !",
+  "failure_message": "Dommage : Vous devriez regarder plus de match.",
+  "questions": [
+    {
+      "question": "Qui est le ballon d'or 1998 ?",
+      "choices": ["Ronaldo", "Figo", "Zidane", "Nedved", "Shevchenko"],
+      "correct_answer": "Zidane"
+    },
+    {
+      "question": "Qui a remporté l'euro 1996 ?",
+      "choices": ["Angleterre", "France", "Danemark", "Allemagne", "Pays-bas"],
+      "correct_answer": "Allemagne"
+    },
+    {
+      "question": "Combien de League des champions a remporté le Real Madrid ?",
+      "choices": ["3", "5", "7", "10", "15"],
+      "correct_answer": "15"
+    },
+    {
+      "question": "Qui est le meilleur buteur de l'histoire de la League des champion ?",
+      "choices": ["Cristiano Ronaldo", "Benzema", "Lewandowski", "Messi", "Raul"],
+      "correct_answer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "Quel joueur est surnommé el phenomeno ?",
+      "choices": ["Ronaldinho", "Rivaldo", "Ronaldo", "Messi", "Neymar"],
+      "correct_answer": "Ronaldo"
+    }
+    
+  ]
+}
